@@ -1,0 +1,1 @@
+print(primes[0:6])

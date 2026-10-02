@@ -1,0 +1,1 @@
+print(max(numbers) + min(numbers))

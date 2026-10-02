@@ -1,0 +1,1 @@
+print(countries.count('Spain')) 

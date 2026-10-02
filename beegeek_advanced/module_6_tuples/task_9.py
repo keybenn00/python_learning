@@ -1,0 +1,1 @@
+print(countries.index('Slovenia'))

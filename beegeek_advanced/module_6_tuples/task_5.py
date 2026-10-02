@@ -1,0 +1,1 @@
+print(countries[:-3])
